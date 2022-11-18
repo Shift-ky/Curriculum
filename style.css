@@ -1,0 +1,22 @@
+#foto-curriculum{
+    display:block;
+    width: 200px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font-family: "Roboto", sans-serif
+}
+#port{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.655);
+}
